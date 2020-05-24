@@ -7,4 +7,7 @@ Some people warned me that the sofware "controller for 3 antennas" didn't work i
 The problem was the diode attached to pin 13 in arduino nano. 
 The only way to solve it was to swap pins 12 & 13 to pins 4 & 7.
 As a result, I have to use the pins 4 & 7 for the third antenna. Pins that controlled the drivers for the third antenna
+
+
+
 Conclusion : only 2 slot for step drivers are abailable.
