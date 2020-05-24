@@ -1,5 +1,9 @@
 # Control-for-2-magnetic-loop-antennas-Arduino-nano
-This is a modification of my former control of 3 antennas. It fits with the CNC shield V4 for arduino nano
+This is a modification of my former control of 3 antennas. 
+
+It fits with the CNC shield V4 for arduino nano
+
+
 The sofware "controller for 4 antennas" fits perfectly in two differentss configurations of harware:
 -CNC shield V3 for arduino uno
 -CNC shield V4 for arduino nano
